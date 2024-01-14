@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605671852 source:c:\users\bmlgu\onedrive\documents\csc 110\heighttometers\main.cpp
+	<iostream>
+	<iomanip>
+

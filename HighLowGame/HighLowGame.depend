@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1606875647 source:c:\users\bmlgu\onedrive\documents\csc 110\highlowgame\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<stdlib.h>
+

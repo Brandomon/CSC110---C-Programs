@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605105856 source:c:\prog\average10numbersarray\main.cpp
+	<iostream>
+	<iomanip>
+

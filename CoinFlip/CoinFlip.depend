@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1604443926 source:c:\users\bmlgu\onedrive\documents\csc 110\coinflip\main.cpp
+	<iostream>
+	<ctime>
+	<cmath>
+	<cstdlib>
+	<cctype>
+	<iomanip>
+
