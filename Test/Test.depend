@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1607954321 source:c:\users\bmlgu\onedrive\documents\csc 110\c++files\test\main.cpp
+	<iostream>
+	<iomanip>
+
